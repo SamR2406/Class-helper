@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow these files/folders
+!.gitignore
+!main.py
+!README.md
+!models/
+!models/**      # Allow all files inside models
+!recordings/
+!recordings/**  # Allow all files inside recordings
